@@ -87,6 +87,6 @@ A modern, full-stack real-time chatting application built with the MERN stack (M
 
 ## 👨‍💻 Author
 
-**Raunak Agarwal**
+**Rinku Sisodiya**
 
 ---
